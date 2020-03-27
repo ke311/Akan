@@ -62,7 +62,7 @@ body {
     margin: 20px;
 }
 .screen *{
-    font-family: 'Orbitron', sans-serif;
+    font-family: sans-serif;
 }
 .screen  pre {
     margin: 3%;
@@ -80,7 +80,7 @@ body {
     background: #c4c7c6;
     border-radius: 6px;
     align-self: center;
-    border: 4px outset #000;
+    border: 4px outset rgb(11, 61, 199);
     transition: all .2s;
     text-emphasis-color: white;
  
