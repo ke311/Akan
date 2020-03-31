@@ -18,6 +18,10 @@ The programs used to build the above project include;
 3. Javascript
 4. Bootstrap
 
+
+## Live link
+https://ke311.github.io/Akan/
+
 ## Support and Contact Details
 Any query or any issue concerning the above project, don't hesitate to contact;
 + phone: 0745905304
